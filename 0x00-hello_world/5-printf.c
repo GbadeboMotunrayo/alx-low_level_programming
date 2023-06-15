@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Prints "with proper grammar, but the outcome is a piece of art," followed newline
+ * main - Prints "with proper grammar, but the outcome is a piece of art,"
+ * followed newline
  * Return: Always 0.
  *
  */
