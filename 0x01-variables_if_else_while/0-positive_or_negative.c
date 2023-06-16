@@ -8,7 +8,6 @@
 /**
  * main - Prints if number is possitive, zero or negative
  * Return: Always (Success)
- *
  */
 
 int main(void)
