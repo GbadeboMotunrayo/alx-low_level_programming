@@ -4,7 +4,6 @@
 
 #include <stdio.h>
 
-
 /**
  * main - Prints if number is possitive, zero or negative
  * Return: Always (Success)
