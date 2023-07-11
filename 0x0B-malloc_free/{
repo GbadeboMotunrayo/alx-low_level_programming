@@ -1,0 +1,17 @@
+ndex++;
+        }
+
+        return (len);
+}
+
+/**
+ * count_words - Counts the number of words containted within a string.
+ * @str: The string to be searched.
+ *
+ * Return: The number of words contained with str.
+ */
+int count_words(char *str)
+{
+        int index = 0, word = 0, len = 0;
+        
+        for (index = 0; *(str + index)
